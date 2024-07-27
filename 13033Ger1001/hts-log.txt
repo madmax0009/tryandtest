@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Mar 2024 00:32:41 at https://developweb1194.z33.web.core.windows.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://developweb1194.z33.web.core.windows.net/ -O1 "C:\My Web Sites\13033" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:33:17	Error: 	"The requested content does not exist." (404) at link https://developweb1194.z33.web.core.windows.net/GET (from https://developweb1194.z33.web.core.windows.net/)
+00:33:17	Error: 	"The requested content does not exist." (404) at link https://developweb1194.z33.web.core.windows.net/w3.png (from https://developweb1194.z33.web.core.windows.net/)
+00:33:17	Error: 	"The requested content does not exist." (404) at link https://developweb1194.z33.web.core.windows.net/w1.png (from https://developweb1194.z33.web.core.windows.net/)
+00:33:40	Error: 	"The requested content does not exist." (404) at link https://developweb1194.z33.web.core.windows.net/GET.html (from https://developweb1194.z33.web.core.windows.net/glyphicons-halflings-regular.html)
+00:33:41	Error: 	"The requested content does not exist." (404) at link https://developweb1194.z33.web.core.windows.net/w3.html (from https://developweb1194.z33.web.core.windows.net/glyphicons-halflings-regular.html)
+00:33:41	Error: 	"The requested content does not exist." (404) at link https://developweb1194.z33.web.core.windows.net/w1.html (from https://developweb1194.z33.web.core.windows.net/glyphicons-halflings-regular.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 0 seconds : 57 links scanned, 50 files written (2301039 bytes overall) [2324078 bytes received at 38734 bytes/sec]
+(6 errors, 0 warnings, 0 messages)
